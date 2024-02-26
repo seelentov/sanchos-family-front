@@ -1,0 +1,20 @@
+{
+  "name": "perviy-zagorodniy-mainpage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "config": "vite --config vite.config.js"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  },
+  "dependencies": {
+    "sass": "^1.71.0",
+    "swiper": "^11.0.6",
+    "vite-plugin-handlebars": "^2.0.0"
+  }
+}
